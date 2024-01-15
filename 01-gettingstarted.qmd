@@ -1,0 +1,11 @@
+# Getting Started
+
+Your first six steps in this course are to:
+
+1. Register and enroll via the [CWRU Student Information System (SIS)](https://sis.case.edu/).
+    - Section 1 of PQHS 432, CRSP 432 and MPHP 432 are identical.
+2. Review the [main course website](https://thomaselove.github.io/432-2024/), and be sure to visit the [Course Calendar](https://thomaselove.github.io/432-2024/calendar.html), and skim through the Course Syllabus (this document.)
+3. You need to buy Jeff Leek's **How to be a Modern Scientist**, available electronically through <https://leanpub.com/modernscientist>. The suggested cost is $10, but you can pay what you want.
+4. Please fill out the [Welcome to 432 Survey](https://bit.ly/432-2024-welcome-survey) at <https://bit.ly/432-2024-welcome-survey> to help us get to know you a little better. Note that you must **log into Google via your CWRU account** in order to access the survey, which should take about 10 minutes to complete.
+5. Get started [installing the software](https://thomaselove.github.io/432-2024/software.html) you'll need for the course.
+6. Attend the first class, on Tuesday 2024-01-16 at 1 PM in Room E321-323 in the Robbins building at CWRU's School of Medicine.

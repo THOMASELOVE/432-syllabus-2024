@@ -8,7 +8,7 @@ Visit the [Getting Help with 432](05-gettinghelp.qmd) section of this Syllabus f
 
 ## TA office hours
 
-TA office hours are held via Zoom, will begin on Friday 2024-01-19 and continue through Wednesday 2024-05-01 except for Spring Break (no office hours March 9-16) and April 8 (Eclipse). The weekly schedule will appear on our [Contact Us page](https://thomaselove.github.io/431-2024/contact.html) as well as our [Course Calendar](https://thomaselove.github.io/431-2024/calendar.html).
+TA office hours are held via Zoom, will begin on Friday 2024-01-19 and continue through Wednesday 2024-05-01 except for Spring Break (no office hours March 9-16) and April 8 (Eclipse). The weekly schedule appears on our [Contact Us page](https://thomaselove.github.io/431-2024/contact.html) as well as our [Course Calendar](https://thomaselove.github.io/431-2024/calendar.html).
 
 - Our Shared Google Drive (432 Spring 2024 Dr Love and Students) will contain Zoom links for each of these sessions. 
   - No appointment is necessary. Please just drop in. 
@@ -29,6 +29,7 @@ Lindsay Petrenchik | @sec-lindsay | PGY1 Pharmacy Resident at University Hospita
 Miza Salim Hammoud | @sec-miza | MS student in Clinical Research and Postdoc Fellow at Cleveland Clinic
 Monika Strah | @sec-monika | PhD student in Clinical Translational Science and MS graduate
 Ria Tilve | @sec-ria | first year MD student and MPH graduate
+Zoey Zou | @sec-zoey | first year PhD student in Epidemiology \& Biostatistics
 
 ### Ali Elsharkawi {#sec-ali}
 
@@ -72,3 +73,9 @@ completed the Biostatistics M.S. program. She is looking forward to returning as
 ![Ria Tilve](images/Ria_Tilve.png){width=40%}
 
 Ria Tilve is a first year medical student at CWRU. After completing her bachelor's in Biochemistry, she obtained her MPH in Population Health Research at CWRU last spring. Her current research focuses on musculoskeletal health and biomedical imaging. Ria took 431 and 432 during the 2021-2022 school year, and she is applying those skills in her research projects. Outside of studying, Ria enjoys spending time with her family, running, watching sports, and exploring new places.
+
+### Zoey Zou {#sec-zoey}
+
+![Zoey Zou](images/Zoey_Zou.png){width=40%}
+
+Zoey Zou is a first-year Ph.D. student in the Epidemiology & Biostatistics program within the Department of Population & Quantitative Health Sciences. She uses the pronouns “she/her/hers.” Her research interests lie in the methodology of clinical trial designs. Statistics is a fascinating field and can provide answers to many questions in clinical trial design, such as determining whether observed differences are real or due to chance. She also hopes to make contributions to oncology studies. She enjoys reading, skiing, and watching movies, specifically science fiction films. Her favorite movie is "2001: A Space Odyssey." Zoey is excited about the opportunity to engage and connect with students this semester, both in and out of the classroom.

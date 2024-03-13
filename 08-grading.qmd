@@ -61,7 +61,7 @@ All Labs should be turned in by the deadline specified on the [Course Calendar](
 - Work submitted 12 to 24 hours after the deadline will lose 10 of the available 50 points.
 - Work submitted more than 24 hours after the deadline will not be graded.
 
-Your lowest lab score (out of Labs 1-7) over the course of the semester will be dropped before we calculate your overall lab grade. 
+Your lowest lab score (out of Labs 1-7) over the course of the semester will be dropped before we calculate your overall lab grade. At the end of the semester, I will take the average of the 6 largest grades (out of Labs 1-7) to help create your Lab grade, before I factor in Lab 8. If that average is below 70%, I will change it to 70%, assuming you have missed/skipped at most one Lab during the term.
 
 - If you decide to skip a lab, please submit a note to Canvas by the deadline saying that you are skipping the lab.
 - Should you run the risk of needing to miss more than one lab during the semester, contact Professor Love via email.

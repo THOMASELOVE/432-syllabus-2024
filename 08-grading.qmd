@@ -70,6 +70,18 @@ Your lowest lab score (out of Labs 1-7) over the course of the semester will be 
 
 [Lab 8](https://thomaselove.github.io/432-2024/lab8.html) will be graded according to the specifications provided in that Lab's instructions. Lab 8 is required, but can be completed at any time during the semester.
 
+### How Lab 8 Affects Your Grade
+
+- If you submit a successful Lab 8 by the date on the Course Calendar, you will receive 30 points for the Lab 8 assignment. 
+- If you don't make that deadline, but do submit a successful Lab 8 by noon on Tuesday 2024-05-07, you will receive 15 points for the Lab 8 assignment.
+- If you fail to complete Lab 8 successfully by noon on Tuesday 2024-05-07, you will receive zero points for the Lab 8 assignment.
+
+Your homework (labs) grade in this class is made up of the top 6 scores you had on the first 7 labs, which is out of a total possible score of 300 points (each lab is worth 50), PLUS your score on Lab 8, all divided by 3.15. There are slight adjustments for people who were excused from labs between 1 and 7.
+
+- This means that the best possible score you can get on the Labs is 300 (for Labs 1-7 combined) + 30 = 330, which will then be divided by 3.15 to yield a score of 104.8 if your Lab 8 is on time.
+- If you do Lab 8 late but still complete it by Tuesday the 7th at noon, your maximum Lab score would be 300 + 15 = 315, which divided by 3.15 is 100.
+- If you don't do Lab 8 at all, then your maximum Lab score would be 300 / 3.15, which is 95.2
+
 ## Lab Appeal Policy - Request a Review via Google Form
 
 Clarification of concerns related to potential typographical or other errors in our Lab answer sketches is welcome at any time, but haggling over points on assignments can be a real time sink in a large class. To that end, students are **requested not to dispute** any grading on Labs 1-7 during the semester. Instead, should you receive a lower grade on a Lab than you feel you deserve based on the feedback the TA provides, the answer sketch and the grading rubric, you can submit a request for a regrade by Professor Love by submitting the Google Form found at <https://bit.ly/432-2024-lab-regrades> by the deadline in the [Calendar](https://thomaselove.github.io/432-2024/calendar.html).
